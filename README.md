@@ -13,7 +13,7 @@ Welcome to the **AWS Landing Zone** project! This repository automates the setup
 - [Step-by-Step Process](#step-by-step-process)
 - [Outputs](#outputs)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -186,8 +186,3 @@ Please ensure your code adheres to the existing style and is well-tested.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-Feel free to open an issue if you encounter any problems or have suggestions!
