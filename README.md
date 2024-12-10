@@ -18,7 +18,7 @@ Welcome to the **AWS Landing Zone** project! This repository automates the setup
 ---
 
 ## 🚀 Project Overview
-[View Documentation](awlandingzone.gif)
+![Alt Text](awlandingzone.gif)
 
 This AWS Landing Zone project helps you set up a secure and scalable AWS environment by automating:
 
@@ -144,7 +144,7 @@ Edit the `terraform.tfvars` file to set values for:
 
 ### 4. Generate and Review the Execution Plan
 
-Before applying the configuration, run `terraform plan` to generate an execution plan. This command allows you to preview the changes Terraform will make to your infrastructure [Link Text](terraform_plan.tf):
+Before applying the configuration, run `terraform plan` to generate an execution plan. This command allows you to preview the changes Terraform will make to your infrastructure [Terraform_plan.tf](Terraform_plan.tf):
 
 ```bash
 terraform plan
