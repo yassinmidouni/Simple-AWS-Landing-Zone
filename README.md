@@ -1,4 +1,4 @@
-# 🌍 AWS Landing Zone Project 🚀
+# 🌍 Simple AWS Landing Zone  with Terraform 🚀
 
 Welcome to the **AWS Landing Zone** project! This repository automates the setup of foundational AWS resources, including multi-account management, networking, and security configurations. The project uses **Terraform** to define and provision resources, following AWS best practices for building a scalable, secure cloud environment.
 
